@@ -1,0 +1,9 @@
+🔹 POST http://127.0.0.1:8000/login
+Headers: {
+  "Accept": "application/json",
+  "Content-Type": "application/json"
+}
+Body: {
+  "username": "",
+  "password": "testpass"
+}

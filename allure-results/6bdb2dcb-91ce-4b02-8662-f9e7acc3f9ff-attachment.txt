@@ -1,0 +1,17 @@
+Status: 422
+Body:
+{
+  "detail": [
+    {
+      "type": "missing",
+      "loc": [
+        "body",
+        "price"
+      ],
+      "msg": "Field required",
+      "input": {
+        "name": "test"
+      }
+    }
+  ]
+}

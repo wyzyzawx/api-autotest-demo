@@ -1,0 +1,7 @@
+Status: 200
+Body:
+{
+  "access_token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ0ZXN0dXNlciIsImlhdCI6MTc3MDAyOTU4MCwiZXhwIjoxNzcwMDMzMTgwfQ.L2pQzarIVx_jTQqUGOmE-x8fGgbHgX3fsOsQ5j7dpDw",
+  "token_type": "bearer",
+  "expires_in": 3600
+}

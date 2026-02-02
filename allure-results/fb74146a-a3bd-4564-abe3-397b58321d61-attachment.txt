@@ -1,0 +1,5 @@
+Status: 401
+Body:
+{
+  "detail": "Invalid username or password"
+}

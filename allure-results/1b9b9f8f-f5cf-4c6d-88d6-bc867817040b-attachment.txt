@@ -1,0 +1,11 @@
+🔹 POST http://127.0.0.1:8000/items
+Headers: {
+  "Accept": "application/json",
+  "Content-Type": "application/json",
+  "Authorization": "***"
+}
+Body: {
+  "name": "item_ys7yf2xg",
+  "price": 4.23,
+  "desc": "desc_pl5stussindy"
+}

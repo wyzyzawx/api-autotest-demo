@@ -1,0 +1,18 @@
+Status: 422
+Body:
+{
+  "detail": [
+    {
+      "type": "greater_than",
+      "loc": [
+        "body",
+        "price"
+      ],
+      "msg": "Input should be greater than 0",
+      "input": 0,
+      "ctx": {
+        "gt": 0.0
+      }
+    }
+  ]
+}

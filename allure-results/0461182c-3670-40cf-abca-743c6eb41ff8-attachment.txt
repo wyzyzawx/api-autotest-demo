@@ -1,0 +1,18 @@
+Status: 422
+Body:
+{
+  "detail": [
+    {
+      "type": "string_too_long",
+      "loc": [
+        "body",
+        "name"
+      ],
+      "msg": "String should have at most 30 characters",
+      "input": "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+      "ctx": {
+        "max_length": 30
+      }
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+🔹 PATCH http://127.0.0.1:8000/items/3
+Headers: {
+  "Accept": "application/json",
+  "Content-Type": "application/json",
+  "Authorization": "***"
+}
+Body: {
+  "name": "item_zud8jw61"
+}

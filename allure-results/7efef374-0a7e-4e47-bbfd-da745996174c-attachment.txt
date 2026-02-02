@@ -1,0 +1,6 @@
+Status: 200
+Body:
+{
+  "deleted": true,
+  "id": 2
+}

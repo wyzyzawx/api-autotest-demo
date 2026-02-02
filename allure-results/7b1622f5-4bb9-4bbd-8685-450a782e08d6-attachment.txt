@@ -1,0 +1,18 @@
+Status: 422
+Body:
+{
+  "detail": [
+    {
+      "type": "less_than",
+      "loc": [
+        "body",
+        "price"
+      ],
+      "msg": "Input should be less than 100000",
+      "input": 100000,
+      "ctx": {
+        "lt": 100000.0
+      }
+    }
+  ]
+}

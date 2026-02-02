@@ -1,0 +1,9 @@
+Status: 200
+Body:
+{
+  "id": 3,
+  "name": "item_zq69rbyt",
+  "price": 796.42,
+  "desc": "desc_8dikqwocvf1j",
+  "created_by": "testuser"
+}

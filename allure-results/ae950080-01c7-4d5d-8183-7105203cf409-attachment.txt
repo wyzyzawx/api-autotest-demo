@@ -1,0 +1,9 @@
+Status: 200
+Body:
+{
+  "id": 2,
+  "name": "item_ys7yf2xg",
+  "price": 4.23,
+  "desc": "desc_pl5stussindy",
+  "created_by": "testuser"
+}
